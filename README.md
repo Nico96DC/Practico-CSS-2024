@@ -7,7 +7,7 @@ Este es un proyecto de trabajo práctico de una página en HTML con estilos visu
 - [Uso](#uso)
 
 ## Instalación
-1. Clona el repositorio:
+1. Clonar el repositorio:
    ```sh
    git clone https://github.com/Nico96DC/Practico-CSS-2024.git
 2. Ir al directorio del archivo y ejecutarlo:
